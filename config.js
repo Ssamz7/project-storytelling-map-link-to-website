@@ -315,7 +315,7 @@ var config = {
             alignment: 'middle',
             hidden: false,
             title: 'CASE 1',
-            image: 'images/istea.jpg',
+            image: 'images/istea.png',
             description: 'lng: 23.27308, lat: 38.89677',
             location: {
                 center: [23.27314, 38.89673],
